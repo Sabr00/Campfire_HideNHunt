@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings":[
+    {"name":"group1","order":8,"path":"folders/group1.yy",},
+    {"name":"objects","order":7,"path":"folders/objects.yy",},
+    {"name":"Sprites","order":9,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"FishObject","order":1,"path":"objects/FishObject/FishObject.yy",},
+    {"name":"KelpObject","order":2,"path":"objects/KelpObject/KelpObject.yy",},
+    {"name":"BorderSprite","order":3,"path":"sprites/BorderSprite/BorderSprite.yy",},
+    {"name":"FishPlayer","order":1,"path":"sprites/FishPlayer/FishPlayer.yy",},
+    {"name":"KelpSprite","order":2,"path":"sprites/KelpSprite/KelpSprite.yy",},
+  ],
+}
